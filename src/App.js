@@ -22,8 +22,8 @@ function App() {
         <Experience works={works} />
         <Skills {...skills} />
         <Projects projects={projects} github="https://github.com/coderkhalide" />
-        <Partners partners={partners} />
-        <Testimonials testimonials={testimonials} />
+        {/* <Partners partners={partners} /> */}
+        {/* <Testimonials testimonials={testimonials} /> */}
         {/* <News /> */}
         <Contact {...main} />
       </div>
