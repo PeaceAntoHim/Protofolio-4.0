@@ -21,7 +21,7 @@ function App() {
         <About {...about} />
         <Experience works={works} />
         <Skills {...skills} />
-        <Projects projects={projects} github="https://github.com/coderkhalide" />
+        <Projects projects={projects} github="https://github.com/PeaceAntoHim" />
         {/* <Partners partners={partners} /> */}
         {/* <Testimonials testimonials={testimonials} /> */}
         {/* <News /> */}

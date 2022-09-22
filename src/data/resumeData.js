@@ -3,13 +3,13 @@ export const main = {
     "occupation": "Founder of KS Devware",
     "description": "I'm Software Engineer",
     "image": "profilepic.jpg",
-    "bio": "Hi my name is Frans Sebastian. I’m a software engineer (full-stack web & mobile) With nearly 2 years of experience. Worked as a Web Frontend Developer at Mandarin Class had been a rewarding experience as freelance. Moreover, I work on a few startups aimed at the Bangladesh, Russian, Chinese, American, and Dutch markets. Among the companies and entrepreneurs I have worked with are DP-Websolutions, Ganlax group, Hyvinvoivin, Happy-Dairy, Arrtal, FN Softwares & institute, and many more. Developing software for the world of intent is something I'm passionate about and I'm dedicated to making the world of intent easy and affordable for everyone.",
+    "bio": "Hi my name is Frans Sebastian. I’m a software engineer (full-stack web & mobile) With nearly 2 years of experience. Worked as a Software Engineer at SilverTech had been a rewarding experience as contract. Moreover, I'm Software engineers are experienced with static and dynamic web or mobile project development cycles, applying popular code design patterns such as MVC and MVVM. Also know some programming paradigms to create algorithms like Procedural, OOP, and Functional. Then I have good communication skills to express opinions and present them. Like new challenges and working in a dynamic environment. I am interested in exploring new things of technology such as Augmented Reality, Machine learning, Blockchain, Cyber security, and Quantum computers. Able to learn new things quickly.",
     "email": "stefanusfranssebastian@gmail.com",
     "phone": "+6285217095294",
     "quote": "Make a code and be a solver probleam in this life.",
     "address": "Indonesia, DKI Jakarta",
-    "website": "https://khaliddev.com",
-    "resumedownload": "https://drive.google.com/file/d/1uJ9B1U15GI5jPZfzen3Kk8X5HUgG_qDG/view?usp=sharing",
+    "website": "https://peaceantohim.github.io/Frans-Portfolio-3.0/",
+    "resumedownload": "https://drive.google.com/file/d/1GMLqM00BAO0XXb5nAXt_5qL3iQbg452-/view?usp=sharing",
     "social": [
         {
             "name": "linkedin",
@@ -51,41 +51,34 @@ export const works = [
     [
         
         {
-            "company": "DP-Websolutions",
-            "title": "Full-Stack Developer & UI/UX designer",
+            "company": "SilverTech",
+            "title": "Software Engineer",
             "image": "img/behance.png",
-            "years": "July 2020 - Present",
-            "description": "• Dedicated years of collaborative effort resulted in 30% increase in company revenue <br />• Responsible for testing applications and looking for bugs & monitoring website performance <br />• Responsible for application code and UI/UX design <br />• Built responsive custom WordPress themes from scratch also with DIVI theme <br />• Optimized company website for performance and Search Engine Optimization"
+            "years": "April 2022 - Present",
+            "description": "• Developed and maintained Mobile Apk using dart, and flutter framework. <br />• Developed and maintained web apps using javascript, express.js, and node.js. <br />• Automated build mobile app using a batch script. <br />• Developed and maintained REST API using fastify.js and EJS to create core logic apps and improve performance using Redis or memory DB this REST API will be used for mobile apps and the website. <br />• Developed and maintained a logging program, using nodejs this program will report data on how many servers are down. <br /> • Developed mobile liteapk using kotlin, implemented encrypt and decrypt using AES algorithm, implemented coroutine, retrofit and moshi to handle rest API from the client side, implemented singleton kotlin code design, implemented MVVM design pattern, implemented OOP paradigms. <br /> • Developed installer app to make it easy for users to download, downgrade and upgrade the app. We implemented the shared preference, local storage, and put extra to connect each apps we have created. <br /> • Developed broadcasting messages would be implemented in the android app to send bulk messages to notify users. This app use firebase cloud messaging, kotlin, and one signal. <br /> • Automated build mobile liteapk using flavor in gradle script."
         },
         {
-            "company": "OpticEngine",
-            "title": "Senior Lead Full-Stack Web & Mobile Developer",
+            "company": "Brandztory",
+            "title": "Software Engineer",
             "image": "img/behance.png",
-            "years": "June 2021 - October 21",
-            "description": "• Built websites with React JS and node js as backend <br />• Designing web and mobile apps mockups using Figma <br />• Designed and built the User Interface of the mobile app with React-native <br />• Assist the backend developer on ongoing development projects <br />• Participating in all decision-making processes which includes the database design, tooling, deployment processes etc"
+            "years": "January 2021 - April 2021",
+            "description": "• Developed Fullstack Web Apps using Next.js, React.js, PostgreSQL, and Strapi CMS for Backend. <br />• Developed Fullstack CMS and company landing page using Laravel, Next.js, MySQL, MongoDB, tailwindcss, and also use Prisma for ORM. <br />• Developed Attendance Mobile Apps using React Native, we have to implement an NFC card reader, Scan barcode, and User Login."
         },
         {
-            "company": "FN Softwares & institute",
-            "title": "Trainer & Full-Stack Developer",
+            "company": "Ega Multi Cipta",
+            "title": "Full-Stack Developer",
             "image": "img/behance.png",
-            "years": "Aug 20 - Present",
-            "description": "• Trained programming over 500+ students on 2 successful courses <br />• Developed beta version of 'eSomaz (a social media)' app, used by 20K+ active users (increased active user by 25%) <br />• Developed a VS Code Extension for 'eSomaz' which helped to connect programmers <br />• Worked as an adviser on decision-making processes • Motivated jr developers on programming & life "
+            "years": "October 2021 - January 2022",
+            "description": "• Developing company profile using PHP and using WordPress CMS to maintain, rebuild and redesign website. <br />•Set config in PHP to SMTP for email office using G-Suite. <br />• Increase SEO of this web by recapturing code and adding a new comprehensive article. <br />• Migration to new hosting to set up and improve the performance of the website. • Implemented CDN to increase performance web when fetch data content form server and database. "
         },
     ],
     [
         {
-            "company": "Ganlax Group",
-            "title": "Web Developer",
+            "company": "Mandarin Class 08",
+            "title": "Web Frontend Developer",
             "image": "img/behance.png",
-            "years": "May 20 - Present",
-            "description": "• Built the company website with custom WordPress themes from scratch <br />• Optimized company website for performance and Search Engine Optimization <br />• Developed Custom Post Types and created custom fields with ACF plugins <br />• Sliced up design assets from Photoshop files when building custom themes <br />• Performed maintenance tasks on pre-existing sites using the Infinite WP dashboard, such as updating plugins, ensuring backups are running, and running security scans"
-        },
-        {
-            "company": "KS Devware",
-            "title": "Founder",
-            "image": "img/behance.png",
-            "years": "March 2021 - Present",
-            "description": "• Developing revenue-generating applications at both small and large scales <br />• Providing comprehensive maintenance support <br />• Improving the user interface <br />• Building apps for self-health and helping the nation"
+            "years": "July 2021 - September 2021",
+            "description": "• Developed web landing page use Bootstrap, HTML, javascript, CSS, and Jquery <br />"
         },
     ]
 ]
