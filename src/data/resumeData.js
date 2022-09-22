@@ -3,37 +3,37 @@ export const main = {
     "occupation": "Founder of KS Devware",
     "description": "I'm Software Engineer",
     "image": "profilepic.jpg",
-    "bio": "As the founder of KS Devware (software development company), I am Frans Sebastian. A young entrepreneur. With nearly 4 years of experience, I’m a software engineer (full-stack web & mobile) and UI/UX designer. Worked as a senior lead full-stack developer at OpticEngine had been a rewarding experience. Moreover, I work on a few startups aimed at the Bangladesh, Russian, Chinese, American, and Dutch markets. Among the companies and entrepreneurs I have worked with are DP-Websolutions, Ganlax group, Hyvinvoivin, Happy-Dairy, Arrtal, FN Softwares & institute, and many more. Developing software for the world of intent is something I'm passionate about and I'm dedicated to making the world of intent easy and affordable for everyone.",
-    "email": "khalideofficial@gmail.com",
-    "phone": "+880 17874 63481",
-    "quote": "The universe is a pretty big place. If it's just us.",
-    "address": "Badda, Dhaka, Bangladesh",
+    "bio": "Hi my name is Frans Sebastian. I’m a software engineer (full-stack web & mobile) With nearly 2 years of experience. Worked as a Web Frontend Developer at Mandarin Class had been a rewarding experience as freelance. Moreover, I work on a few startups aimed at the Bangladesh, Russian, Chinese, American, and Dutch markets. Among the companies and entrepreneurs I have worked with are DP-Websolutions, Ganlax group, Hyvinvoivin, Happy-Dairy, Arrtal, FN Softwares & institute, and many more. Developing software for the world of intent is something I'm passionate about and I'm dedicated to making the world of intent easy and affordable for everyone.",
+    "email": "stefanusfranssebastian@gmail.com",
+    "phone": "+6285217095294",
+    "quote": "Make a code and be a solver probleam in this life.",
+    "address": "Indonesia, DKI Jakarta",
     "website": "https://khaliddev.com",
     "resumedownload": "https://drive.google.com/file/d/1uJ9B1U15GI5jPZfzen3Kk8X5HUgG_qDG/view?usp=sharing",
     "social": [
         {
             "name": "linkedin",
-            "url": "https://www.linkedin.com/in/coderkhalid",
+            "url": "https://www.linkedin.com/in/frans-sebastian-b55271215/",
             "iconName": "logo-linkedin"
         },
         {
             "name": "twitter",
-            "url": "https://twitter.com/coderkhalid",
+            "url": "https://twitter.com/f_leacardo",
             "iconName": "logo-twitter"
         },
         {
             "name": "facebook",
-            "url": "https://www.facebook.com/khalide.saifullah",
+            "url": "https://www.facebook.com/stefanus.franssebastian/",
             "iconName": "logo-facebook"
         },
         {
             "name": "instagram",
-            "url": "https://www.instagram.com/coderkhalid/",
+            "url": "https://www.instagram.com/franonym_code",
             "iconName": "logo-instagram"
         },
         {
             "name": "github",
-            "url": "https://github.com/coderkhalide",
+            "url": "https://github.com/PeaceAntoHim",
             "iconName": "logo-github"
         }
     ]
@@ -41,7 +41,7 @@ export const main = {
 
 export const about = {
     "bio": "I am a software <br /><span class='text-primary'>engineer</span> who cares<br /> about the code and the people.",
-    "ido": "<p>WEB DEVELOPMENT</p><p>APP DEVELOPMENT</p><p>UI/UX DESIGN</p><p>FRONT-END DEVELOPMENT</p><p>BACK-END DEVELOPMENT</p><p>FULL-STACK DEVELOPMENT</p>",
+    "ido": "<p>WEB APP DEVELOPMENT</p><p>SOFTWARE ENGINEER</p><p>MOBILE DEVELOPMENT</p><p>FRONT-END DEVELOPMENT</p><p>BACK-END DEVELOPMENT</p><p>FULL-STACK DEVELOPMENT</p>",
     "years": 2,
     "image": "img/profilepic.jpg",
     "resumedownload": "https://drive.google.com/file/d/1uJ9B1U15GI5jPZfzen3Kk8X5HUgG_qDG/view?usp=sharing",
@@ -96,31 +96,31 @@ export const skills = {
     skills: [
         {
             "title": "Ninja at",
-            skills: ["JavaScript", "React JS", "React Native", "Node JS"]
+            skills: ["JavaScript", "Node JS", "Kotlin", "Java"]
         },
         {
             "title": "Front-end",
-            skills: ["JavaScript", "React JS", "Next JS", "HTML/CSS", "SCSS", "UI/UX Design", "Jquery", "Redux"]
+            skills: ["JavaScript", "Dart", "React JS", "Next JS", "HTML/CSS", "Jquery", "Redux"]
         },
         {
             "title": "Back-end",
-            skills: ["Node JS", "Express JS", "React Native", "Rest API", "PHP"]
+            skills: ["Node JS", "Java", "Golang", "Kotlin", "Express JS", "Rest API", "PHP"]
         },
         {
             "title": "Database",
-            skills: ["MySQL", "MongoDB", "Firebase", "redis"]
+            skills: ["MySQL", "PostgreeSQL", "MongoDB", "Firebase", "redis"]
         },
         {
             "title": "App development",
-            skills: ["React Native"]
+            skills: ["React Native", "Kotlin/Java(Android)", "Electron", "Dart/Flutter"]
         },
         {
             "title": "Game development",
-            skills: ["unity", "C#", "C"]
+            skills: ["unity", "C#", "C", "C++"]
         },
         {
             "title": "Payment",
-            skills: ["Stripe", "Paypal", "SslCommerz", "Bkash"]
+            skills: ["Stripe", "Paypal", "Midtrans", "DOKU"]
         },
         {
             "title": "Cloud",
@@ -128,11 +128,11 @@ export const skills = {
         },
         {
             "title": "Libraries",
-            skills: ["Tailwind CSS", "Bootstrap", "Material UI"]
+            skills: ["Tailwind CSS", "React", "Node", "Express", "Flutter"]
         },
         {
             "title": "Others",
-            skills: ["Git", "GitHub", "PWA", "PWA", "Figma", "AJAX", "WordPress", "Google Map", "Mapbox", "blockchain"]
+            skills: ["Git", "GitHub", "PWA", "AJAX", "WordPress", "Mapbox", "blockchain"]
         },
     ]
 }
