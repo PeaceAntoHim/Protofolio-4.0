@@ -374,8 +374,8 @@ export const partners = [
 
 export const testimonials = [
   {
-    text: "We are very content and happy wan all the work Frans Sebastian has done for us! Not only did he just what he had to do, comes up with suggestions and improvements of his owns and points out weaknesses which he in perfect communication is able to improve. Recommended! ",
-    user: "Jason Sindram",
-    company: "CTO at DP-Websolutions",
+    text: "As the Software Engineering for Silvertech, I would like to recommend Frans for the position of head environmental engineer at your organization. He has a total of 2 years experience in the field and has worked for 2 in our company. ",
+    user: "Memory Yosua",
+    company: "SEO Specialist | Multimedia Specialist",
   },
 ];
