@@ -378,9 +378,4 @@ export const testimonials = [
     user: "Jason Sindram",
     company: "CTO at DP-Websolutions",
   },
-  {
-    text: "Superb. Great comms, understood the requirement, and delivered quickly. Multiple revisions allowed which were very helpful. I will work with him again.",
-    user: "Bhavesh Patel",
-    company: "CEO at Ganlaxgroup",
-  },
 ];
