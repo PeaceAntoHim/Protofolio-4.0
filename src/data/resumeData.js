@@ -161,6 +161,8 @@ export const skills = {
         "WordPress",
         "Mapbox",
         "blockchain",
+        "Tensorflow",
+        "Jenkins",
       ],
     },
   ],
