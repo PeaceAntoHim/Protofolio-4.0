@@ -1,18 +1,10 @@
 import { useState } from "react";
-import { nodemailer } from "nodemailer";
-import { smtpTransport } from "nodemailer-smtp-transport";
+import 
 
 function Contact({ quote, address, phone, email }) {
   const [name, setName] = useState("");
   const [iemail, isetEmail] = useState("");
   const [message, setMessage] = useState("");
-
-  const transporter = nodemailer.createTransport(
-    smtpTransport({
-      service: "gmail",
-      host: "smtp.gmail.com",
-    })
-  );
 
   const submitForm = (e) => {
     window.open(
