@@ -1,5 +1,4 @@
 import { useState } from "react";
-import 
 
 function Contact({ quote, address, phone, email }) {
   const [name, setName] = useState("");
