@@ -21,6 +21,7 @@ function About({ bio, ido, years, image, video, resumedownload }) {
                     rel="noreferrer"
                     href={resumedownload}
                     className="btn"
+                    download
                   >
                     Download Resume
                   </a>

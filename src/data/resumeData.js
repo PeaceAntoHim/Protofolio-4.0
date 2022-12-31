@@ -1,16 +1,17 @@
 export const main = {
   name: "Frans Sebastian",
-  occupation: "Founder of KS Devware",
-  description: "I'm Software Engineer",
+  occupation: "Software Engineer",
+  description:
+    "Software engineers are experienced with static and dynamic web or mobile project development cycles",
   image: "profilepic.jpg",
   bio: "Hi my name is Frans Sebastian. I’m a software engineer (full-stack web & mobile) With nearly 2 years of experience. Worked as a Software Engineer at SilverTech had been a rewarding experience as contract. Moreover, I'm Software engineers are experienced with static and dynamic web or mobile project development cycles, applying popular code design patterns such as MVC and MVVM. Also know some programming paradigms to create algorithms like Procedural, OOP, and Functional. Then I have good communication skills to express opinions and present them. Like new challenges and working in a dynamic environment. I am interested in exploring new things of technology such as Augmented Reality, Machine learning, Blockchain, Cyber security, and Quantum computers. Able to learn new things quickly.",
   email: "stefanusfranssebastian@gmail.com",
   phone: "+6285217095294",
-  quote: "Make a code and be a solver probleam in this life.",
+  quote:
+    "Being a problem solver in this life with critical thinking and never stopping learning every day.",
   address: "Indonesia, DKI Jakarta",
   website: "https://peaceantohim.github.io/Frans-Portfolio-3.0/",
-  resumedownload:
-    "https://drive.google.com/file/d/1GMLqM00BAO0XXb5nAXt_5qL3iQbg452-/view?usp=sharing",
+  resumedownload: "CV/Frans_Sebastian_Resume.pdf",
   social: [
     {
       name: "linkedin",
@@ -45,8 +46,7 @@ export const about = {
   ido: "<p>WEB APP ENGINEER</p><p>SOFTWARE ENGINEER</p><p>MOBILE ENGINEER</p><p>MACHINE LEARNING ENGINEER</p><p>BACK-END ENGINEER</p><p>FULL-STACK ENGINEER</p>",
   years: 2,
   image: "img/profilepic.jpg",
-  resumedownload:
-    "https://drive.google.com/file/d/1uJ9B1U15GI5jPZfzen3Kk8X5HUgG_qDG/view?usp=sharing",
+  resumedownload: "CV/Frans_Sebastian_Resume.pdf",
 };
 
 export const works = [
@@ -120,6 +120,7 @@ export const skills = {
         "Express JS",
         "Rest API",
         "PHP",
+        "Laravel",
       ],
     },
     {
@@ -163,6 +164,7 @@ export const skills = {
         "blockchain",
         "Tensorflow",
         "Jenkins",
+        "Paytorch",
       ],
     },
   ],
