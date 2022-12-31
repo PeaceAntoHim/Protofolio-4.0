@@ -292,64 +292,16 @@ export const projects = [
     url: "https://coderkhalid.netlify.app",
   },
   {
-    title: "Amanti.com",
-    category: "Website",
-    image: "amanti.jpg",
-    url: "https://amanti-cheese.com",
-  },
-  {
     title: "Zoom Clone",
     category: "Website",
     image: "zoom-clone.jpg",
     url: "https://ksdevware.com/dekto",
   },
   {
-    title: "Peer4Tree.com",
-    category: "UI/UX Design",
-    image: "peer4tree.jpg",
-    url: "https://peer4-tree.web.app",
-  },
-  {
-    title: "MERN blog website",
-    category: "Website",
-    image: "loomly.jpg",
-    url: "https://ks-loomly.herokuapp.com",
-  },
-  {
     title: "Whatsapp clone",
     category: "Website",
     image: "whatsapp.jpg",
     url: "https://whatsapp-clone-nextjs-six.vercel.app",
-  },
-  {
-    title: "KS Classroom (LMS)",
-    category: "Website",
-    image: "classroom.jpg",
-    url: "https://ksdevware.com/classroom",
-  },
-  {
-    title: "Prolingua.fi",
-    category: "Website",
-    image: "prolingua.jpg",
-    url: "https://prolingua.fi",
-  },
-  {
-    title: "Peer4Car.com Dashboard UI",
-    category: "UI/UX Design",
-    image: "peer4-admin.jpg",
-    url: "https://www.figma.com/proto/yoQYmaIIPaTQapbwyzr4AI/PEER4-CAR?node-id=1%3A2&viewport=578%2C-192%2C0.38818028569221497&scaling=min-zoom&page-id=0%3A1",
-  },
-  {
-    title: "Restarant UI design",
-    category: "UI/UX Design",
-    image: "res-ui-deisgn.jpg",
-    url: "https://www.figma.com/proto/CEUw87emTmSLLXCO4hfdSb/RESTAURANT-Theme?node-id=1%3A2&viewport=491%2C87%2C0.25013697147369385&scaling=min-zoom&page-id=0%3A1",
-  },
-  {
-    title: "Text to Speech",
-    category: "Website",
-    image: "tts.jpg",
-    url: "https://ksdevware.com/old/portfolio/Text_to_speech",
   },
 ];
 
