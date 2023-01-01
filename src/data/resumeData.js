@@ -1,8 +1,7 @@
 export const main = {
   name: "Frans Sebastian",
   occupation: "Software Engineer",
-  description:
-    "Software engineers are experienced with static and dynamic web or mobile project development cycles",
+  description: "Software Engineer | Computer Scientist",
   image: "profilepic.jpg",
   bio: "Hi my name is Frans Sebastian. I’m a software engineer (full-stack web & mobile) With nearly 2 years of experience. Worked as a Software Engineer at SilverTech had been a rewarding experience as contract. Moreover, I'm Software engineers are experienced with static and dynamic web or mobile project development cycles, applying popular code design patterns such as MVC and MVVM. Also know some programming paradigms to create algorithms like Procedural, OOP, and Functional. Then I have good communication skills to express opinions and present them. Like new challenges and working in a dynamic environment. I am interested in exploring new things of technology such as Augmented Reality, Machine learning, Blockchain, Cyber security, and Quantum computers. Able to learn new things quickly.",
   email: "stefanusfranssebastian@gmail.com",
@@ -190,34 +189,10 @@ export const projects = [
     url: "https://meta-ks.vercel.app/",
   },
   {
-    title: "Food delivery app - (Play store)",
-    category: "App",
-    image: "Kennys Fish & Chips.png",
-    url: "https://play.google.com/store/apps/details?id=com.kennysfishandchips.app",
-  },
-  {
     title: "VS Code - Extension for eSomaz",
     category: "VS Code - Extension",
     image: "esomax-ext.jpg",
     url: "https://marketplace.visualstudio.com/items?itemName=coderkhalid.esomaz",
-  },
-  {
-    title: "Arrtal - Short videos for kids (app)",
-    category: "App",
-    image: "arrtal-app.jpg",
-    url: "https://play.google.com/store/apps/details?id=com.arrtal.arrtalkids",
-  },
-  {
-    title: "Arrtal creator app",
-    category: "App",
-    image: "creator-app.jpg",
-    url: "https://www.youtube.com/watch?v=QdcaNakkbCI",
-  },
-  {
-    title: "WhatsApp app clone - React Native",
-    category: "App",
-    image: "whatsapp-app.jpg",
-    url: "https://youtu.be/tMmfcAipfW4",
   },
   {
     title: "Uber Eats clone - React Native",
@@ -230,12 +205,6 @@ export const projects = [
     category: "Website",
     image: "pienipuro.jpg",
     url: "https://pienipuro.fi",
-  },
-  {
-    title: "1 to 1 - Video calling application",
-    category: "Website",
-    image: "video-calling.jpg",
-    url: "https://videocall-ks.herokuapp.com",
   },
   {
     title: "Quotes World App",
